@@ -1,0 +1,17 @@
+Important Links:-
+
+Documentation: - https://clever-noyce-f9d43f.netlify.app/#/
+
+Hyperparamter Tuning :- https://clever-noyce-f9d43f.netlify.app/#/hp_finder/model_finder
+
+Colab Notebook :- https://colab.research.google.com/drive/1BrWdjgXREy6VWYlyn9wF4iaqSGf8yvEa
+
+Medium Link :- https://medium.com/@monkai/plant-disease-classification-with-monk-3a4d7ba419b9
+
+http://download.tensorflow.org/models/object_detection/faster_rcnn_inception_v2_coco_2018_01_28.tar.gz
+
+
+https://github.com/tensorflow/models/blob/v1.13.0/research/object_detection/g3doc/detection_model_zoo.md
+
+https://github.com/tensorflow/models/tree/v1.13.0
+
